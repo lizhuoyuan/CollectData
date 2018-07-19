@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123763707878",
+    "firebase_url": "https://collectdata-9d792.firebaseio.com",
+    "project_id": "collectdata-9d792",
+    "storage_bucket": "collectdata-9d792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123763707878:android:3055f2a2c79e5502",
+        "android_client_info": {
+          "package_name": "com.collectdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123763707878-k9l63tggbm32sunh8l23hrreqjn4gutu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIXAQoImr9HpHTAzJVhj4UsXggnP_uFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
